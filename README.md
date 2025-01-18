@@ -24,7 +24,7 @@ I'm a passionate software developer with a keen interest in building scalable ap
 
 ## 📈 GitHub Stats
 
-![BennisonDevadoss's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BennisonDevadoss&theme=radical))
+![BennisonDevadoss's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BennisonDevadoss&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BennisonDevadoss&layout=compact&theme=radical)
 
 ---
