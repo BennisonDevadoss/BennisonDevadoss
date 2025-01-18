@@ -8,23 +8,23 @@ I'm a passionate software developer with a keen interest in building scalable ap
 
 - 🌱 I’m currently learning **React** and **Machine Learning**.
 - 💼 I’m currently working at **Yavar Tech Works Private Limited** as a **Software Engineer**.
-- 💬 Ask me about **JavaScript, FastAPI, and Cloud Architecture**.
-- 📫 How to reach me: **bennisondevadoss.gmail.com**
+- 💬 Ask me about **JavaScript, Python, FastAPI**.
+- 📫 How to reach me: **bennisondevadoss@gmail.com**
 
 ---
 
 ## 🛠️ Languages and Tools
 
-- **Languages**: JavaScript, Java
-- **Web Development**: HTML, CSS, React, Angular, Node.js, FastAPI
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Tools**: Git, Docker
+- **Languages**: JavaScript, Python
+- **Web Development**: HTML, CSS, React, Node.js, FastAPI
+- **Databases**: MySQL, PostgreSQL
+- **Tools**: Git, Docker, Vim
 
 ---
 
 ## 📈 GitHub Stats
 
-![BennisonDevadoss's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BennisonDevadoss&theme=radical)
+![BennisonDevadoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=BennisonDevadoss&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BennisonDevadoss&layout=compact&theme=radical)
 
 ---
