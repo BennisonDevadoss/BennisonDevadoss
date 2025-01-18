@@ -10,7 +10,6 @@ I'm a passionate software developer with a keen interest in building scalable ap
 - 💼 I’m currently working at **Yavar Tech Works Private Limited** as a **Software Engineer**.
 - 💬 Ask me about **JavaScript, FastAPI, and Cloud Architecture**.
 - 📫 How to reach me: **bennisondevadoss.gmail.com**
-- ⚡ Fun fact: I love playing chess and solving puzzles.
 
 ---
 
@@ -25,7 +24,7 @@ I'm a passionate software developer with a keen interest in building scalable ap
 
 ## 📈 GitHub Stats
 
-![BennisonDevadoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=BennisonDevadoss&show_icons=true&theme=radical)
+![BennisonDevadoss's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BennisonDevadoss&theme=radical))
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BennisonDevadoss&layout=compact&theme=radical)
 
 ---
