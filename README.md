@@ -17,7 +17,7 @@ I'm a passionate software developer with a keen interest in building scalable ap
 - **Languages**: JavaScript, Python
 - **Web Development**: HTML, CSS, React, Node.js, FastAPI
 - **Databases**: MySQL, PostgreSQL
-- **Tools**: Git, Docker, Vim
+- **Tools**: Git, Docker, Vim, VSCode
 
 
 ## 📈 GitHub Stats
