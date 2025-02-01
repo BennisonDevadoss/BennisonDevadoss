@@ -22,7 +22,7 @@ I'm a passionate software developer with a keen interest in building scalable ap
 
 ## 📈 GitHub Stats
 
-![BennisonDevadoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=BennisonDevadoss&show_icons=true&theme=shadow_blue)
+![BennisonDevadoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=BennisonDevadoss&layout=compact&show_icons=true&theme=shadow_blue)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BennisonDevadoss&layout=compact&theme=shadow_blue)
 
 
