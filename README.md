@@ -29,7 +29,7 @@ I'm a passionate software developer with a keen interest in building scalable ap
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/bennisondevadoss/)
-- 🌐 My website: [bennison-portfolio.vercel.app](https://bennison-portfolio.vercel.app/)
+- [Visit my website](https://bennison-portfolio.vercel.app/)
 
 ---
 
