@@ -4,7 +4,7 @@ Hi 👋 My name is Bennison J
 Backend Software Engineer
 -------------------------
 
-I'm a passionate software developer with a keen interest in building scalable applications and exploring new technologies. I enjoy working on challenging projects and continuously learning to improve my skills.
+I'm a passionate software engineer with a keen interest in building scalable applications and exploring new technologies. I enjoy working on challenging projects and continuously learning to improve my skills.
 
 I'm especially drawn to backend development and system design, with hands-on experience in UNIX/Linux, JavaScript, Node.js, SQL, and Python. I build robust APIs using FastAPI and deploy applications on platforms like Google Cloud.
 
