@@ -6,6 +6,12 @@ Backend Software Engineer
 
 I'm a passionate software developer with a keen interest in building scalable applications and exploring new technologies. I enjoy working on challenging projects and continuously learning to improve my skills.
 
+I'm a software engineer with a deep passion for backend development, system design, and building scalable applications. I enjoy working with technologies like UNIX/Linux, JavaScript, Node.js, SQL, and Python, and I primarily develop using FastAPI for robust backend services.
+
+I'm especially interested in modern AI tooling, working with frameworks like LlamaIndex, LangChain, and LangGraph to build intelligent, agentic workflows. I'm always exploring new technologies and deploying efficient systems on platforms like Google Cloud.
+
+As a tech blogger, I love sharing what I learn, breaking down complex topics, and connecting with others in the developer community.
+
 * 🌍  I'm based in Tamil Nadu, India
 * 🖥️  See my portfolio at [bennison-portfolio.vercel.app](http://bennison-portfolio.vercel.app/)
 * ✉️  You can contact me at [bennisondevadoss@gmail.com](mailto:bennisondevadoss@gmail.com)
