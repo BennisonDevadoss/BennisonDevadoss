@@ -1,7 +1,7 @@
 Hi 👋 My name is Bennison J
 ===========================
 
-Backend Software Engineer
+AI & Backend Engineer
 -------------------------
 
 I’m a dedicated software engineer with over 3+ years of experience 🧑‍💻 in building scalable, high-performance backend systems. I’m passionate about solving real-world problems 🛠️ and continuously exploring new technologies 🚀 to stay ahead in the ever-evolving tech landscape.
