@@ -4,7 +4,7 @@ Hi 👋 My name is Bennison J
 AI & Backend Engineer
 -------------------------
 
-I’m a dedicated software engineer with over 3+ years of experience 🧑‍💻 in building scalable, high-performance backend systems. I’m passionate about solving real-world problems 🛠️ and continuously exploring new technologies 🚀 to stay ahead in the ever-evolving tech landscape.
+I’m a dedicated software engineer with over 4 years of experience 🧑‍💻 in building scalable, high-performance backend systems. I’m passionate about solving real-world problems 🛠️ and continuously exploring new technologies 🚀 to stay ahead in the ever-evolving tech landscape.
 
 My core strengths include backend development and system architecture, with hands-on experience in UNIX/Linux 🐧, JavaScript, Node.js, SQL, and Python 🐍. I specialize in developing production-ready APIs using FastAPI/NestJS ⚙️ and deploying applications on Google Cloud Platform (GCP) ☁️ following best practices in scalability and reliability.
 
