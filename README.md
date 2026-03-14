@@ -48,3 +48,8 @@ src="https://img.shields.io/github/followers/BennisonDevadoss?logo=github&style=
     </td>
   </tr>
 </table>
+
+### My Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
