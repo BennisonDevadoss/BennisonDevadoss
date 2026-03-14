@@ -52,4 +52,9 @@ src="https://img.shields.io/github/followers/BennisonDevadoss?logo=github&style=
 ### My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is It Time to Quit Software Engineering](https://medium.com/@bennisondevadoss/is-it-time-to-quit-software-engineering-d97db85d3c7c?source=rss-34793ae5c80d------2)
+- [Fixing the “postmaster.pid Already Exists” Error on macOS](https://medium.com/@bennisondevadoss/fixing-the-postmaster-pid-already-exists-error-on-macos-c5b4ee0f5b51?source=rss-34793ae5c80d------2)
+- [I Never Planned to Use Vim — Now I Can’t Imagine Coding Without It](https://medium.com/yavar/i-never-planned-to-use-vim-now-i-cant-imagine-coding-without-it-0f77a4464493?source=rss-34793ae5c80d------2)
+- [How Google Search Engine Works](https://medium.com/@bennisondevadoss/how-google-search-engine-works-5ea8917088d8?source=rss-34793ae5c80d------2)
+- [What Makes GPT Work: The Transformer Explained](https://medium.com/yavar/what-makes-gpt-work-the-transformer-explained-3289ee808e59?source=rss-34793ae5c80d------2)
 <!-- BLOG-POST-LIST:END -->
