@@ -15,7 +15,7 @@ In addition to my engineering work, I'm an active tech blogger ✍️, where I s
 Let's connect, collaborate, and create a meaningful impact through technology! 💡
 
 * 🌍  I'm based in Tamil Nadu, India
-* 🖥️  See my portfolio at [bennison-portfolio.app](https://bennison.in/)
+* 🖥️  See my portfolio at [bennison.in](https://bennison.in/)
 * ✉️  You can contact me at [bennisondevadoss@gmail.com](mailto:bennisondevadoss@gmail.com)
 * 🧠  I'm learning React, Data Structures & Algorithms, and LLM Agent Workflows
 * 🤝  I'm open to collaborating on Web Applications, AI/ML Tools, Generative AI Projects, and Open Source Contributions.
